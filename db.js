@@ -9,7 +9,7 @@ let accounts = [
       userName: 'Eduardo',
       userMail: 'l4l024',
       balance: 300,
-      userPass: 1234,
+      userPass: 'contrasena',
     },
     { 
       userName: 'Drake',
@@ -19,8 +19,8 @@ let accounts = [
     },
     { 
       userName: 'Mali',
-      userMail: 'm4lij1994',
+      userMail: 'mali1234',
       balance: 420,
-      userPass: 1234,
+      userPass: 'm4lij1994',
     },
     ];
